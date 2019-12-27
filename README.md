@@ -6,7 +6,7 @@
 
 <code>___1. Create a directory in home named <mark>workspace___</mark></code><br>
 <code>___2. Git clone the <mark>SC_TestSuite___</mark></code><br>
-<code>___Open workspace directory in terminal</code>
+<code>___Open workspace directory in terminal___</code>
 <code>___3. In one tab, open simplifiedcredit-server, run command <mark>npm start___</mark></code><br>
 <code>___4. In second tab, open simplifiedcredit-web, run command <mark>npm start___</mark></code><br>
 <code>___5. In third tab, open <mark>SC_TestSuite___</mark></code><br>
