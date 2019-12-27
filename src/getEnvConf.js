@@ -4,7 +4,7 @@ let parameters = {
         stageUrl: 'TODO'
     },
     'uat': {
-        uatUrl: 'http://uat.simplifiedcredit.net'
+        uatUrl: 'TODO'
     },
     'local': {
         baseUrl: 'http://localhost:8081'
